@@ -28,6 +28,11 @@ A fun and interactive JavaScript game that helps users improve their typing spee
 - **CSS**: Styling and layout of the game interface.
 - **JavaScript**: Game functionality, including word counting, scoring, and textbox refresh.
 
+##  Future improvements 
+- **Responsiveness**: Styling and layout of the game can be improved.
+- **Update Game Level / Increase Speed**: The levels of the game can be improved.
+
+
 
 ## Acknowledgements
 
